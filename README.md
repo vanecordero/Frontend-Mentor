@@ -4,7 +4,7 @@
 ! text in orange (and bold)
 # text in red (and bold)
 ```
-- ![#f1b604](INTERMEDIATE?text=+) ``
+- ![#f1b604](INTERMEDIATE?text=+) `#f1b604`
 
 #Frontend Mentor Solutions
 
