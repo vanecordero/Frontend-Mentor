@@ -1,18 +1,11 @@
-```diff
-- text in green (and bold)
-+ text in yellow (and bold)
-! text in orange (and bold)
-# text in red (and bold)
-```
-- ![#aad742](https://placehold.it/15/aad742/000000?text=+) `JUNIOR`
 #Frontend Mentor Solutions
 
 👩‍💻 Frontend Mentor provide front-end challenges that include professional web designs. These allow me to practice building websites in a realistic workflow. 
 
 | Difficulty   | Table of Contents                                                     |
 | ----------   | --------------------------------------------------------------------- |
-| <span style="color: #aad742; font-weight:bold;">JUNIOR</span>| [Tip calculator app](#Tip-calculator-app)                             |
-| <span style="color: #f1b604; font-weight:bold;">INTERMEDIATE</span> | [Planets fact site](#planets-fact-site)                               |
+| JUNIOR       | [Tip calculator app](#Tip-calculator-app)                             |
+| INTERMEDIATE | [Planets fact site](#planets-fact-site)                               |
 
 
 ## Tip calculator app
