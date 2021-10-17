@@ -2,10 +2,10 @@
 
 👩‍💻 Frontend Mentor provide front-end challenges that include professional web designs. These allow me to practice building websites in a realistic workflow. 
 
-| Difficulty | Table of Contents                                                     |
-| ---------- | --------------------------------------------------------------------- |
-| JUNIOR     | [Tip calculator app](#Tip-calculator-app)                            |
-| JUNIOR     | [Planets fact site](#planets-fact-site)                               |
+| Difficulty   | Table of Contents                                                     |
+| ----------   | --------------------------------------------------------------------- |
+| JUNIOR       | [Tip calculator app](#Tip-calculator-app)                             |
+| INTERMEDIATE | [Planets fact site](#planets-fact-site)                               |
 
 
 ## Tip calculator app
