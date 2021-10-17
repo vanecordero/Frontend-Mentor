@@ -4,8 +4,7 @@
 ! text in orange (and bold)
 # text in red (and bold)
 ```
-- ![#f1b604](INTERMEDIATE?text=+) `#f1b604`
-
+- ![#aad742](https://placehold.it/15/aad742/000000?text=+) `JUNIOR`
 #Frontend Mentor Solutions
 
 👩‍💻 Frontend Mentor provide front-end challenges that include professional web designs. These allow me to practice building websites in a realistic workflow. 
